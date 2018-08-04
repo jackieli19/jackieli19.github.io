@@ -1,11 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-<<<<<<< HEAD
 permalink: /publications/
-=======
-permalink: /research/
->>>>>>> parent of d0accde... Change
 author_profile: true
 ---
 

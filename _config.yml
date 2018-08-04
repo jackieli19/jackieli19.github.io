@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "李晋阳"
+title                    : "Jinyang Li"
 title_separator          : "-"
-name                     : &name "Jackie Li"
+name                     : &name "Jinyang(Jackie) Li"
 description              : &description "Quant Intern at Wells Fargo"
 url                      : https://jackieli19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

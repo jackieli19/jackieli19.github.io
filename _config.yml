@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jinyang Li"
 title_separator          : "-"
-name                     : &name "Jinyang(Jackie) Li"
+name                     : &name "Jinyang Li"
 description              : &description "Quant Intern at Wells Fargo"
 url                      : https://jackieli19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jackie Li"
+  name             : "Jinyang(Jackie) Li"
   avatar           : "MyPic.png"
   bio              : "Quant Intern at Wells Fargo, working at applying deep neural network techniques"
   location         : "Charlotte"

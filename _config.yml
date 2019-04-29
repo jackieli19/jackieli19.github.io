@@ -84,7 +84,7 @@ author:
   bio              : "Hedge Fund Intern"
   location         : "Toronto, ON, CA"
   employer         : "Polar Asset Management Partners"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "omlxingge@163.com"
   uri              :
   bitbucket        :

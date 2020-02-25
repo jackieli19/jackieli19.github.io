@@ -42,7 +42,7 @@ Education
 Working Experience
 ======
 ### Polar Asset Management Partners
-<p style="text-align:left;">
+<p style="text-align:left; font-style: italic">
     Investment Team Intern, Toronto
     <span style="float:right;">
         05/2019 – 08/2019
@@ -66,7 +66,7 @@ Working Experience
 - CLOs manager performance analysis with cross platform application created, written in Python.
 
 ### Swiss Re
-<p style="text-align:left;">
+<p style="text-align:left; font-style: italic">
     Investment Team Intern, Toronto
     <span style="float:right;">
         05/2019 – 08/2019
@@ -78,7 +78,7 @@ Working Experience
 - CLOs manager performance analysis with cross platform application created, written in Python.
 
 ### Aon Benfield
-<p style="text-align:left;">
+<p style="text-align:left; font-style: italic">
     Investment Team Intern, Toronto
     <span style="float:right;">
         05/2019 – 08/2019

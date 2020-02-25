@@ -25,7 +25,7 @@ Education
     </span>
 </p>
 
-- CGPA 92.5/100
+- CGPA: 93/100
 - Master’s Thesis on algorithmic trading using reinforcement learning.
 
 ### The University of Hong Kong  

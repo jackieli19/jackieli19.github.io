@@ -38,7 +38,7 @@ Education
 
 - Minor in Computer Science
 - Dean's List 2017-2018
----
+<hr>
 Working Experience
 ======
 ### Polar Asset Management Partners

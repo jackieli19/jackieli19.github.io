@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
 - /resume
 ---
-
 {% include base_path %}
-
 ## Education
 UC Berkeley  
 *Master of Financial Engineering, Expected 2021*

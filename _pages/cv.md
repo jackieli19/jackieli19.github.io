@@ -21,7 +21,7 @@ redirect_from:
 - Minor in Computer Science
 - Dean's List 2017-2018
 
-## Work experience
+## Working Experience
 * Summer 2019: Hedge Fund Analyst Intern
 * Polar Asset Management Partners
 @ Toronto

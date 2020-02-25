@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 Education
 ======
-###  UC Berkeley  
+###  University of California, Berkeley – Haas School of Business
 <p style="text-align:left; font-style: italic">
     Master of Financial Engineering
     <span style="float:right;">

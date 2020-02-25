@@ -43,7 +43,7 @@ Working Experience
 ======
 ### Polar Asset Management Partners
 <p style="text-align:left; font-style: italic">
-    Investment Team Intern, Toronto
+    Investment Team Intern @ Toronto
     <span style="float:right;">
         05/2019 – 08/2019
     </span>
@@ -55,36 +55,35 @@ Working Experience
 
 ### Wells Fargo
 <p style="text-align:left;">
-    Investment Team Intern, Toronto
+    Capital Market Quant Intern @ Charlotte
     <span style="float:right;">
-        05/2019 – 08/2019
+        06/2018 – 08/2018
     </span>
 </p>
-- In the Risk Arbitrage Team of the Multi-strategy Hedge Fund ($4B AUM) under Portfolio Manager Tim Trapp.
-- Conducted fundamental investment research and built 5+ pre-IPO packages for PM’s reviewing.
-- Merger arbitrage analysis with simulation and estimation for 10+ past and ongoing deals, written in R.
-- CLOs manager performance analysis with cross platform application created, written in Python.
+- Worked as a quantitative summer intern under the supervision of Dr. Agus Sudjianto, Dr. Bernhard Hientzsch.
+- Built PDE solvers for option pricing using deep learning techniques under multi-dimensional Heston model.
+- Predicted stock price on high-frequency data using Generative Adversarial Nets.
+- Volatility calibration under a neural stochastic volatility model using Long Short-term Memory Networks.
 
 ### Swiss Re
 <p style="text-align:left; font-style: italic">
-    Investment Team Intern, Toronto
+    Portfolio Management Team Intern @ Hong Kong
     <span style="float:right;">
-        05/2019 – 08/2019
+        01/2017 – 06/2017
     </span>
 </p>
-- In the Risk Arbitrage Team of the Multi-strategy Hedge Fund ($4B AUM) under Portfolio Manager Tim Trapp.
-- Conducted fundamental investment research and built 5+ pre-IPO packages for PM’s reviewing.
-- Merger arbitrage analysis with simulation and estimation for 10+ past and ongoing deals, written in R.
-- CLOs manager performance analysis with cross platform application created, written in Python.
+- Prepared the source of earnings analysis quarterly and generated report based on USGAAP and EVM.
+- Coordinated the preparation of dashboards for the tracking of the performance of the portfolio in Asia-Pacific.
+- Supported the analysis of specific portfolios using actuarial technique to improve the company value.
+
 
 ### Aon Benfield
 <p style="text-align:left; font-style: italic">
-    Investment Team Intern, Toronto
+    Placement Team Intern @ Hong Kong
     <span style="float:right;">
-        05/2019 – 08/2019
+        09/2015 – 12/2015 & 06/2016 – 08/2016
     </span>
 </p>
-- In the Risk Arbitrage Team of the Multi-strategy Hedge Fund ($4B AUM) under Portfolio Manager Tim Trapp.
-- Conducted fundamental investment research and built 5+ pre-IPO packages for PM’s reviewing.
-- Merger arbitrage analysis with simulation and estimation for 10+ past and ongoing deals, written in R.
-- CLOs manager performance analysis with cross platform application created, written in Python.
+- Constructed a relational database using SQL to store, track and analyze all the in-force business in Asia-Pacific
+- Designed and developed tools and interfaces using VBA to facilitate the rapid accessibility of intelligent data
+-	Published the Company Treaty Bible and China Insurance Market Analysis

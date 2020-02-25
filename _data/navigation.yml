@@ -8,8 +8,8 @@ main:
   - title: "Courses"
     url: /teaching/
 
-  - title: "Qualifications"
-    url: /publications/
+#  - title: "Qualifications"
+#    url: /publications/
 
   - title: "Projects"
     url: /portfolio/
@@ -18,5 +18,5 @@ main:
 #  - title: "Travels"
 #    url: /talks/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Qualifications"
+    url: /qualifications/

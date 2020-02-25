@@ -4,7 +4,7 @@ collection: teaching
 type: "MQF course"
 permalink: /teaching/UW-Finance-I
 venue: "U Waterloo, Math Faculty"
-date: 2019-09-01
+date: 2018-09-01
 location: "Waterloo, Canada"
 ---
 

@@ -8,13 +8,4 @@ date: 2018
 location: "Waterloo, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The course introduces options and other derivative securities in different asset classes. The main focus is on methods of pricing in a multi-period setting, but continuous-time models are also discussed. Topics may include no-arbitrage pricing theory, the fundamental theory of asset pricing, complete and incomplete markets,and pricing of complex financial instruments.

@@ -8,15 +8,15 @@ redirect_from:
 ---
 {% include base_path %}
 ## Education
-####  UC Berkeley  
+###  UC Berkeley  
 *Master of Financial Engineering, Expected 2021*
 
-#### The University of Waterloo  
+### The University of Waterloo  
 *Master of Quantitative Finance, 2019*
 - CGPA 92.5/100
 - Master’s Thesis on algorithmic trading using reinforcement learning.
 
-#### The University of Hong Kong  
+### The University of Hong Kong  
 *Bachelor of Science in Actuarial Science, 2018*
 - Minor in Computer Science
 - Dean's List 2017-2018

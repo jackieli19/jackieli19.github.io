@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jinyang Li"
 title_separator          : "-"
 name                     : &name "Jinyang Li"
-description              : &description "Hedge Fund Intern at Polar Asset Management"
+description              : &description "MFE, Haas School of Business, UCB"
 url                      : https://jackieli19.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jackieli19/jackieli19.github.io"
@@ -99,13 +99,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "jinyang-li-aa53859b"
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :

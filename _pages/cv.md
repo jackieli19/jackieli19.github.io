@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 UC Berkeley  
-*Master of Financial Engineering\, Expected 2021*
+*Master of Financial Engineering, Expected 2021*
 
 The University of Waterloo  
 *Master of Quantitative Finance, 2019*
@@ -24,7 +24,7 @@ The University of Hong Kong
 - Minor in Computer Science
 - Dean's List 2017-2018
 
-Work experience
+## Work experience
 ======
 * Summer 2019: Hedge Fund Analyst Intern
 * Polar Asset Management Partners

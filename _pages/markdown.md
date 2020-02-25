@@ -1,5 +1,5 @@
 ---
-permalink: /qualifications/
+permalink: /markdown/
 author_profile: true
 redirect_from:
   - /md/
@@ -31,7 +31,7 @@ redirect_from:
   * No icon: not built
 
 ## Resources
- * [Liquid syntax guide](https://jackieli19.github.io/teaching/UW-Finance-II)
+ * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
 
 ## Markdown guide
 

@@ -7,7 +7,8 @@ redirect_from:
 - /resume
 ---
 {% include base_path %}
-## Education
+Education
+======
 ###  UC Berkeley  
 *Master of Financial Engineering, Expected 2021*
 
@@ -21,7 +22,32 @@ redirect_from:
 - Minor in Computer Science
 - Dean's List 2017-2018
 
-## Working Experience
+Working Experience
+======
+### Polar Asset Management Partners
+<p style="text-align:left;">
+    Investment Team Intern, Toronto
+    <span style="float:right;">
+        05/2019 – 08/2019
+    </span>
+</p>
+- In the Risk Arbitrage Team of the Multi-strategy Hedge Fund ($4B AUM) under Portfolio Manager Tim Trapp.
+- Conducted fundamental investment research and built 5+ pre-IPO packages for PM’s reviewing.
+- Merger arbitrage analysis with simulation and estimation for 10+ past and ongoing deals, written in R.
+- CLOs manager performance analysis with cross platform application created, written in Python.
+
+### Polar Asset Management Partners
+<p style="text-align:left;">
+    Investment Team Intern, Toronto
+    <span style="float:right;">
+        05/2019 – 08/2019
+    </span>
+</p>
+- In the Risk Arbitrage Team of the Multi-strategy Hedge Fund ($4B AUM) under Portfolio Manager Tim Trapp.
+- Conducted fundamental investment research and built 5+ pre-IPO packages for PM’s reviewing.
+- Merger arbitrage analysis with simulation and estimation for 10+ past and ongoing deals, written in R.
+- CLOs manager performance analysis with cross platform application created, written in Python.
+
 ### Polar Asset Management Partners
 <p style="text-align:left;">
     Investment Team Intern, Toronto

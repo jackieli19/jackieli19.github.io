@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 UC Berkeley  
 *Master of Financial Engineering, Expected 2021*
 
@@ -25,7 +24,6 @@ The University of Hong Kong
 - Dean's List 2017-2018
 
 ## Work experience
-======
 * Summer 2019: Hedge Fund Analyst Intern
 * Polar Asset Management Partners
 @ Toronto

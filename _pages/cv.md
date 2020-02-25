@@ -30,7 +30,7 @@ Education
 
 ### The University of Hong Kong  
 <p style="text-align:left; font-style: italic">
-    Bachelor of Science in Actuarial Science,
+    Bachelor of Science in Actuarial Science
     <span style="float:right;">
         2018
     </span>

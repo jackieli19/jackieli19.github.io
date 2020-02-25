@@ -22,8 +22,9 @@ redirect_from:
 - Dean's List 2017-2018
 
 ## Working Experience
-#### Polar Asset Management Partners
-*Investment Team Intern, Toronto, 05/2019 – 08/2019*
+### Polar Asset Management Partners
+*Investment Team Intern, Toronto*
+<p style="text-align: right"> 05/2019 – 08/2019 </p>
 - In the Risk Arbitrage Team of the Multi-strategy Hedge Fund ($4B AUM) under Portfolio Manager Tim Trapp.
 - Conducted fundamental investment research and built 5+ pre-IPO packages for PM’s reviewing.
 - Merger arbitrage analysis with simulation and estimation for 10+ past and ongoing deals, written in R.

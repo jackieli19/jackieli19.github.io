@@ -1,5 +1,5 @@
 ---
-title: "TimeS eries"
+title: "Time Series"
 collection: teaching
 type: "MQF course"
 permalink: /teaching/UW-TimeSeries

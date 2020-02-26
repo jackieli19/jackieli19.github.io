@@ -8,7 +8,7 @@ date: 2019-02-01
 location: "Waterloo, Canada"
 ---
 
-TThe goal of this course is to establish the main principles of stochastic calculus within the simplest setting of stochastic integration with respect to continuous semimartingales. Our emphasis will be on the basic principles and theorems of stochastic calculus rather than on specific applications.
+The goal of this course is to establish the main principles of stochastic calculus within the simplest setting of stochastic integration with respect to continuous semimartingales. Our emphasis will be on the basic principles and theorems of stochastic calculus rather than on specific applications.
 
 The main prerequisites for enrolling in this course are competence in basic measure theory (Lebesgue integral and its properties, convergence theorems, Radon-Nikodym theorem, Fubini-Tonelli theorem, extension theorem for measures) and elementary probability theory (independence, expectations, con- ditional expectations).
 

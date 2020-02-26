@@ -1,7 +1,7 @@
 ---
 title: "Financial Reporting and Analysis I"
 collection: teaching
-type: "Workshop"
+type: "Auditing Course"
 permalink: /teaching/WLU-FinancialReportingandAnalysis-I
 venue: "Wilfrid Laurier University, Lazaridis Business School"
 date: 2019-09-01

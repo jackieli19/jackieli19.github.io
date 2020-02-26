@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Education
 ======
 ###  University of California, Berkeley – Haas School of Business

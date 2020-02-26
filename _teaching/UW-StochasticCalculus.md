@@ -1,5 +1,5 @@
 ---
-title: "introduction to Stochastic Calculus"
+title: "Introduction to Stochastic Calculus"
 collection: teaching
 type: "MQF course"
 permalink: /teaching/UW-StochasticCalculus

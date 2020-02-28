@@ -20,7 +20,7 @@ Education
     </span>
 </p>
 
-### The University of Waterloo  
+### University of Waterloo  
 <p style="text-align:left; font-style: italic">
     Master of Quantitative Finance
     <span style="float:right;">

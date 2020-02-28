@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Curriculum Vitae"
+title: "[Curriculum Vitae](https://www.linkedin.com/feed/)"
 excerpt: "About me"
 author_profile: true
 redirect_from:

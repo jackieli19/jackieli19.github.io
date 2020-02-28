@@ -8,6 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+This page include all the courses that are completed in undergraduate level.
+
 | ﻿Course    | Course Title                                   | Courses    | Term          |
 |-----------|------------------------------------------------|------------|---------------|
 | STAT 2901 | Probability and statistics                     | Statistics | 2013-14 Sem 2 |

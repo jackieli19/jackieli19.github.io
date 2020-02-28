@@ -92,3 +92,11 @@ Working Experience
 - Constructed a relational database using SQL to store, track and analyze all the in-force business in Asia-Pacific
 - Designed and developed tools and interfaces using VBA to facilitate the rapid accessibility of intelligent data
 -	Published the Company Treaty Bible and China Insurance Market Analysis
+
+<hr>
+
+Skills
+======
+- Programming: Python, C++, Java, SQL, R, VBA.
+- Qualifications: CFA Level II Candidate, Associate of the Society of Actuaries Exams (5/5) Passed
+- Languages: English, Mandarin, Cantonese.

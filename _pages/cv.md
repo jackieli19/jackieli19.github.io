@@ -10,7 +10,9 @@ redirect_from:
 
 This page include all the relevant courses that are completed in undergraduate level from The University of Hong Kong. Common core and other free electives that are not related are excluded.
 
-| Course    | Markdown Syntax                                                                                                                             | Courses    | Term          |
+> :link: **Click on the course name for detailed information**
+
+| Code    | Course Name                                                                                                                             | Catogory    | Term          |
 |-----------|---------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------|
 | STAT 2901 | [Probability and statistics](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT2901)                            | Statistics | 2013-14 Sem 2 |
 | STAT 2902 | [Financial mathematics](https://webapp.science.hku.hk/sr4/servlet/enquiry?Type=Course&course_code=STAT2902)                                 | Statistics | 2013-14 Sem 2 |

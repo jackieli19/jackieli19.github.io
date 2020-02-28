@@ -10,7 +10,7 @@ location: "Waterloo, Canada"
 
 This course is intended to be an introduction to time series analysis at the graduate level.
 
-Broadly, our goal is to learn the basics of model fitting, forecasting, and performing statistical inference with scalar time series. Specific topics include:
+Broadly, the goal is to learn the basics of model fitting, forecasting, and performing statistical inference with scalar time series. Specific topics include:
 
 1. Plotting and detrending time series
 2. Theory of stationary stochastic processes

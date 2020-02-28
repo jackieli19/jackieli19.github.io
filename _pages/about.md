@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Curriculum Vitae](https://www.linkedin.com/feed/)"
+title: "![alt text](https://github.com/jackieli19/jackieli19.github.io/blob/master/images/logo%20by%20Lilia.png "Logo Title Text 1")"
 excerpt: "About me"
 author_profile: true
 redirect_from:

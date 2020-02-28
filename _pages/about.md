@@ -42,6 +42,14 @@ Education
 - Minor in Computer Science
 - Dean's List 2017-2018
 
+### Ecole nationale de la Statistique et de l'Analyse de l'Information
+<p style="text-align:left; font-style: italic">
+    Summer Exchange
+    <span style="float:right;">
+        2016
+    </span>
+</p>
+
 <hr>
 
 Working Experience
@@ -101,5 +109,6 @@ Skills
 - Qualifications:
   - CFA Level II Candidate
   - Associate of the SOA Exams (5/5) Passed: P, FM, C, MLC, MFE
+  - Coursera: [Applied AI with DeepLearning](https://www.coursera.org/account/accomplishments/verify/4BUQNF3QQ4Q2)
   - TOFEL: 108
 - Languages: English, Mandarin, Cantonese.

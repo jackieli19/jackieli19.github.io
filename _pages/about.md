@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "![alt text](https://github.com/jackieli19/jackieli19.github.io/blob/master/images/logo%20by%20Lilia.png "Logo Title Text 1")"
+#title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-
-<hr>
-
+![alt text](../images/logobyLilia.png "Logo Title Text 1")
 Education
 ======
 ###  University of California, Berkeley – Haas School of Business

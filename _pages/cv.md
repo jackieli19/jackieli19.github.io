@@ -7,6 +7,7 @@ redirect_from:
 - /resume
 ---
 {% include base_path %}
+
 | ﻿Course    | Course Title                                   | Courses    | Term          |
 |-----------|------------------------------------------------|------------|---------------|
 | STAT 2901 | Probability and statistics                     | Statistics | 2013-14 Sem 2 |

@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-![alt text](../images/logobyLilia.png "Logo Title Text 1")
+<img src="../images/logobyLilia.png"
+     alt="Markdown Monster icon"
+     style="margin-right: 10px; width: 20%" />
+     
 Education
 ======
 ###  University of California, Berkeley – Haas School of Business

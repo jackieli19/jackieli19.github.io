@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "CV"
+    url: /qualifications/
+
   - title: "Grad Courses"
     url: /teaching/
 
@@ -16,6 +19,3 @@ main:
 
 #  - title: "Travels"
 #    url: /talks/
-
-#  - title: "Interests"
-#    url: /qualifications/

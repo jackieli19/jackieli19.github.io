@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /HKUcourse/
+permalink: /cv/
 author_profile: true
 redirect_from:
-- /HKUcourse/
+- resume
 ---
 {% include base_path %}
 

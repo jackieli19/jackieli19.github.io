@@ -1,6 +1,6 @@
 ---
 title: "MQF Master's Research Paper"
-excerpt: "A DEEP REINFORCEMENT LEARNING FRAMEWORK FOR FINANCIAL PORTFOLIO MANAGEMENT"
+excerpt: "<a href="https://drive.google.com/file/d/1DKHXRKlLmU5wwPr9gH9PLfF8BKHuPTYx/view">A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem</a>"
 collection: portfolio
 ---
 

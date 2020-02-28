@@ -12,7 +12,7 @@ redirect_from:
 
 Jackie has multiple internship experiences in the financial industry over the past 5 years. Starting as an actuarial intern in Aon and then Swiss Re, he mainly focused on portfolio management with strong analytical and interpersonal skillsets developed. After that, he had a summer internship in Wells Fargo as a quant in the capital markets, where his job was developing deep learning models for derivative pricing. His latest internship was in the largest multi-strategy hedge fund in Toronto under the risk arbitrage team. Cooperated with different teams, Jackie developed automatic Alpha seeking algorithms from M&A and IPO arbitrages.
 
-During his spare time, Jackie likes to act and shot microfilms. He used to be the main actor in the Drama Club and Film Studio of HKU. Jackie was also a volunteer teacher of Beyond the Pivot, which is a Hong Kong-based NGO. He spent a month in Lijiang, Yunnan and taught the elementary school students.
+During his spare time, Jackie likes to act and shot microfilms. He used to be the main actor in the Drama Club and Film Studio of HKU. Jackie was also a volunteer teacher of Beyond the Pivot, which is a Hong Kong based NGO. He spent a month in Lijiang, Yunnan and taught the elementary school students.
 
 <html>
 <head>

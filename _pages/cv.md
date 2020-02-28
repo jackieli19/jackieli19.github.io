@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-#### This page include all the relevant courses that are completed in undergraduate level from The University of Hong Kong. Common core and other free electives that are not related are excluded.
+### This page include all the relevant courses that are completed in undergraduate level from The University of Hong Kong. Common core and other free electives that are not related are excluded.
 
 > **_NOTE:_**  Click on the course name for detailed information.
 

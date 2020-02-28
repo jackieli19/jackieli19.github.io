@@ -109,4 +109,6 @@ Skills
   - Associate of the SOA Exams (5/5) Passed: P, FM, C, MLC, MFE
   - Coursera: [Applied AI with DeepLearning](https://www.coursera.org/account/accomplishments/verify/4BUQNF3QQ4Q2)
   - TOFEL: 108
+  - Honor of Kings: Heavenly VI
 - Languages: English, Mandarin, Cantonese.
+- Interest: Drama acting and film shooting.

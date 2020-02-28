@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ![alt text](../images/logobyLilia.png "Logo Title Text 1")
 Education
 ======

@@ -4,6 +4,7 @@ layout: archive
 permalink: /HKUcourse/
 author_profile: true
 redirect_from:
+- /HKUcourse/
 - /resume
 ---
 {% include base_path %}

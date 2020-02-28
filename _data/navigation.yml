@@ -1,12 +1,12 @@
 # main links links
 main:
 
-
-  - title: "HKU Course"
-    url: /cv/
-
   - title: "Grad Courses"
     url: /teaching/
+
+
+  - title: "Undergrad Course"
+    url: /cv/
 
 #  - title: "Publications"
 #    url: /publications/

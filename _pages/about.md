@@ -1,14 +1,12 @@
 ---
 permalink: /
-#title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-About
-======
 
 Jinyang (Jackie) Li is an incoming Master of Financial Engineering student at the University of California, Berkeley. Before that, he holds a master’s degree in quantitative finance from University of Waterloo and a bachelor’s degree in actuarial science from The University of Hong Kong. Jackie is dedicated for a career in quantitative investment, research or trading, and this is the reason he is moving to US for a larger market.
 

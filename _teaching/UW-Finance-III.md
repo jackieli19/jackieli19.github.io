@@ -10,7 +10,7 @@ location: "Waterloo, Canada"
 
 This is is a graduate course on statistical learning for financial applications.
 
-Topics covered may include:
+Topics covered include:
 1. Introduction to Statistical Learning • Review of Regression Based Methods • Classification
 2. Resampling Methods
 3. Model Selection and Regularization

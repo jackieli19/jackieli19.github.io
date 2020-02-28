@@ -98,5 +98,8 @@ Working Experience
 Skills
 ======
 - Programming: Python, C++, Java, SQL, R, VBA.
-- Qualifications: CFA Level II Candidate, Associate of the Society of Actuaries Exams (5/5) Passed
+- Qualifications:
+  - CFA Level II Candidate
+  - Associate of the SOA Exams (5/5) Passed: P, FM, C, MLC, MFE
+  - TOFEL: 108
 - Languages: English, Mandarin, Cantonese.

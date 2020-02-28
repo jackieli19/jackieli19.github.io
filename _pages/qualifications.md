@@ -18,7 +18,6 @@ Education
     </span>
 </p>
 
-
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
 * Single pages: _pages/

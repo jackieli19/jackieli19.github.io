@@ -24,7 +24,7 @@ function clickCounter() {
     } else {
       localStorage.clickcount = 1;
     }
-    document.getElementById("result").innerHTML = "You have endorsed Jackie " + localStorage.clickcount + " time(s).";
+    document.getElementById("result").innerHTML = "Jackie is liked " + localStorage.clickcount + " time(s).";
   } else {
     document.getElementById("result").innerHTML = "Sorry, your browser does not support web storage...";
   }

@@ -1,12 +1,23 @@
 ---
 permalink: /qualifications/
+layout: archive
 author_profile: true
 redirect_from:
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+{% include base_path %}
+Education
+======
+###  University of California, Berkeley – Haas School of Business
+<p style="text-align:left; font-style: italic">
+    Master of Financial Engineering
+    <span style="float:right;">
+        Expected 2021
+    </span>
+</p>
+
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
